@@ -1460,3 +1460,15 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.carousel-control-prev{
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,88,89,1) 43%, rgba(255,255,255,0) 100%);
+  margin-left: 12px;
+  border-radius: 5px;
+}
+
+.carousel-control-next{
+  background: linear-gradient(-90deg, rgba(0,0,0,1) 0%, rgba(88,88,89,1) 43%, rgba(255,255,255,0) 100%);
+  margin-right: 12px;
+  border-radius: 5px;
+}
